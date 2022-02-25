@@ -1,4 +1,4 @@
-# ntu-automate-star-wars
+# Ntu-automate-star-wars
 This script automates adding of courses into new NTU Stars system (so called star wars). Stars is based on first come first serve basis however more slots open up within the 3 hours as well. This script will ease your star wars. 
 
 ## Functionality
